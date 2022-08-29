@@ -18,3 +18,4 @@ sample
 14-03-2022
 10-06-2022--->it is firday
 16-06-2022--> today is SATURDAY and SUNDAY
+today date added
